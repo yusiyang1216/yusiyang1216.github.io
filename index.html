@@ -182,7 +182,7 @@
                 
                 <section class="switch-part switch-part2">
                     <div class="widget tagcloud" id="js-tagcloud">
-                        
+                        <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/ios/">ios</a></li></ul>
                     </div>
                 </section>
                 
@@ -258,6 +258,115 @@
     <link class="menu-list" tags="标签" friends="友情链接" about="关于我"/>
 </nav>
       <div class="body-wrap">
+  
+    <article id="post-xcode修改快捷键" class="article article-type-post" itemscope itemprop="blogPost">
+  
+    <div class="article-meta">
+      <a href="/2016/08/03/xcode修改快捷键/" class="article-date">
+      <time datetime="2016-08-03T08:24:51.000Z" itemprop="datePublished">2016-08-03</time>
+</a>
+
+
+    </div>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2016/08/03/xcode修改快捷键/">xcode修改快捷键</a>
+    </h1>
+  
+
+      </header>
+      
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+          
+        <p><a href="http://blog.csdn.net/meegomeego/article/details/12971089" target="_blank" rel="external">http://blog.csdn.net/meegomeego/article/details/12971089</a></p>
+<p>修改以下文件<br>/Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Resources/IDETextKeyBindingSet.plist</p>
+<hr>
+<p>Deletions中添加：</p>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">key</span>&gt;</span>Delete Current Line<span class="tag">&lt;/<span class="name">key</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">string</span>&gt;</span>selectLine:, delete:<span class="tag">&lt;/<span class="name">string</span>&gt;</span></div></pre></td></tr></table></figure>
+<p>Insertions and Indentations中添加：</p>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">key</span>&gt;</span>Insert NewLine Wherever<span class="tag">&lt;/<span class="name">key</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">string</span>&gt;</span>moveToEndOfLine:, insertNewline:<span class="tag">&lt;/<span class="name">string</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">key</span>&gt;</span>Duplicate Current Line<span class="tag">&lt;/<span class="name">key</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">string</span>&gt;</span>selectLine:, copy:, moveToEndOfLine:, insertNewline:, paste:, deleteBackward:<span class="tag">&lt;/<span class="name">string</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">key</span>&gt;</span>Copy Current Line<span class="tag">&lt;/<span class="name">key</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">string</span>&gt;</span>selectLine:, copy:<span class="tag">&lt;/<span class="name">string</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">key</span>&gt;</span>Paste Current Line<span class="tag">&lt;/<span class="name">key</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">string</span>&gt;</span>paste:<span class="tag">&lt;/<span class="name">string</span>&gt;</span></div></pre></td></tr></table></figure>
+<p>Selection中添加：</p>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">key</span>&gt;</span>Move to Beginning Word of Line<span class="tag">&lt;/<span class="name">key</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">string</span>&gt;</span>moveToBeginningOfLine:, moveWordRight:, moveWordLeft:<span class="tag">&lt;/<span class="name">string</span>&gt;</span></div></pre></td></tr></table></figure>
+<hr>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">名称</th>
+<th style="text-align:right">快捷键</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Delete Current Line</td>
+<td style="text-align:right">Ctrl+D</td>
+</tr>
+<tr>
+<td style="text-align:left">Insert NewLine Wherever</td>
+<td style="text-align:right">Shift+Enter</td>
+</tr>
+<tr>
+<td style="text-align:left">Duplicate Current Line</td>
+<td style="text-align:right">Ctrl+Alt+下</td>
+</tr>
+<tr>
+<td style="text-align:left">Copy Current Line</td>
+<td style="text-align:right">Ctrl+C</td>
+</tr>
+<tr>
+<td style="text-align:left">Paste Current Line</td>
+<td style="text-align:right">Ctrl+V</td>
+</tr>
+<tr>
+<td style="text-align:left">Move to Beginning Word of Line</td>
+<td style="text-align:right">Home</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p>移动代码上下行</p>
+<img src="/2016/08/03/xcode修改快捷键/F008AB67-1357-4433-921B-F6A59817ACEB.png" alt="[This is an example image]" title="[This is an example image]">
+<hr>
+<p>xcode7.3已经加入了删除行的功能。</p>
+<img src="/2016/08/03/xcode修改快捷键/CC1F94DC-26E0-432F-A548-F881EBDEC8BF.png" alt="This is an example image" title="This is an example image">
+
+      
+    </div>
+    
+    <div class="article-info article-info-index">
+      
+      
+
+      
+    <div class="article-tag tagcloud">
+        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/ios/">ios</a></li></ul>
+    </div>
+
+      
+      <div class="clearfix"></div>
+    </div>
+    
+  </div>
+  
+</article>
+
+
+
+
+
+
+
+
+
   
     <article id="post-hello-world" class="article article-type-post" itemscope itemprop="blogPost">
   

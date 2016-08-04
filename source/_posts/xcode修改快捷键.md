@@ -37,14 +37,14 @@ Selection中添加：
 ```
 ---
 
-|             名称                |     快捷键   |
-|:-                              |           -:|
-|Delete Current Line             |     Ctrl+D  |
-|Insert NewLine Wherever         | Shift+Enter |
-|Duplicate Current Line          | Ctrl+Alt+下 |
-|Copy Current Line               |    Ctrl+C   |
-|Paste Current Line              |    Ctrl+V   |
-|Move to Beginning Word of Line  |    Home     |
+| 名称                            | 快捷键       |
+|:-------------------------------|:------------|
+| Delete Current Line            | Ctrl+D      |
+| Insert NewLine Wherever        | Shift+Enter |
+| Duplicate Current Line         | Ctrl+Alt+下 |
+| Copy Current Line              | Ctrl+C      |
+| Paste Current Line             | Ctrl+V      |
+| Move to Beginning Word of Line | Home        |
 
 ---
 移动代码上下行

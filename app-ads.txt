@@ -78,3 +78,5 @@ pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
+appnexus.com, 13297, RESELLER
+xandr.com, 13297, RESELLER

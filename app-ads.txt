@@ -86,3 +86,13 @@ rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
 rhythmone.com, 3383599585, RESELLER, a670c89d4a324e47
 velismedia.com, 725, RESELLER
 velismedia.com, 1137, RESELLER
+Pubmatic.com, 157800, RESELLER,  5d62403b186f2ace
+Pubmatic.com, 158118, RESELLER,  5d62403b186f2ace
+thebrave.io, 9840732, RESELLER,  c25b2154543746ac
+thebrave.io, 1234594, RESELLER,  c25b2154543746ac
+Pubnative.net, 1007063, RESELLER,  d641df8625486a7b
+Pubnative.net, 1003601, RESELLER,  d641df8625486a7b
+algorix.co, 60016, RESELLER
+admanmedia.com, 613, RESELLER
+adview.com, 48045325, RESELLER,  1b2cc038a11ea319
+adelement.com, 30167, RESELLER

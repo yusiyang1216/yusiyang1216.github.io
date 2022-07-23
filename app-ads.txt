@@ -107,3 +107,16 @@ appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
 xandr.com, 7353, RESELLER, f5ab79cb980f11d1
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 xandr.com, 13297, RESELLER, f5ab79cb980f11d1
+appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
+rhythmone.com, 170071695, RESELLER, a670c89d4a324e47
+Se7en.es, 212499, RESELLER, 064bc410192443d8
+smartadserver.com, 3964, RESELLER
+sonobi.com, ac6f1a9ded, RESELLER, d1a215d9eb5aee9e
+advlion.com, 5140, RESELLER
+indexexchange.com, 194974, RESELLER, 50b1c356f2c5c8fc
+video.unrulymedia.com, 170071695, RESELLER, a670c89d4a324e47
+Pubmatic.com, 157800, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 158118, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8

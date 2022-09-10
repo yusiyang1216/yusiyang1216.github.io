@@ -126,3 +126,8 @@ pubnative.net, 1007063, RESELLER, d641df8625486a7b
 pubnative.net, 1003601, RESELLER, d641df8625486a7b
 adview.com, 48045325, RESELLER, 1b2cc038a11ea319
 opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
+appnexus.com, 13227, RESELLER
+pubmatic.com, 162223, RESELLER, 5d62403b186f2ace
+rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
+rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
+yandex.com, 95746987, RESELLER

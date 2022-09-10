@@ -86,3 +86,48 @@ rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
 rhythmone.com, 3383599585, RESELLER, a670c89d4a324e47
 velismedia.com, 725, RESELLER
 velismedia.com, 1137, RESELLER
+Pubmatic.com, 157800, RESELLER,  5d62403b186f2ace
+Pubmatic.com, 158118, RESELLER,  5d62403b186f2ace
+thebrave.io, 9840732, RESELLER,  c25b2154543746ac
+thebrave.io, 1234594, RESELLER,  c25b2154543746ac
+Pubnative.net, 1007063, RESELLER,  d641df8625486a7b
+Pubnative.net, 1003601, RESELLER,  d641df8625486a7b
+algorix.co, 60016, RESELLER
+admanmedia.com, 613, RESELLER
+adview.com, 48045325, RESELLER,  1b2cc038a11ea319
+adelement.com, 30167, RESELLER
+algorix.co, 54616, RESELLER, 5b394c12fea27a1d
+algorix.co, 60016, RESELLER, 5b394c12fea27a1d
+appnexus.com, 7353, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2764, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10617, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9393, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
+xandr.com, 7353, RESELLER, f5ab79cb980f11d1
+xandr.com, 13167, RESELLER, f5ab79cb980f11d1
+xandr.com, 13297, RESELLER, f5ab79cb980f11d1
+appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
+rhythmone.com, 170071695, RESELLER, a670c89d4a324e47
+Se7en.es, 212499, RESELLER, 064bc410192443d8
+smartadserver.com, 3964, RESELLER
+sonobi.com, ac6f1a9ded, RESELLER, d1a215d9eb5aee9e
+advlion.com, 5140, RESELLER
+indexexchange.com, 194974, RESELLER, 50b1c356f2c5c8fc
+video.unrulymedia.com, 170071695, RESELLER, a670c89d4a324e47
+Pubmatic.com, 157800, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 158118, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+thebrave.io, 9840732, RESELLER, c25b2154543746ac
+thebrave.io, 1234594, RESELLER, c25b2154543746ac
+pubnative.net, 1007063, RESELLER, d641df8625486a7b
+pubnative.net, 1003601, RESELLER, d641df8625486a7b
+adview.com, 48045325, RESELLER, 1b2cc038a11ea319
+opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
+appnexus.com, 13227, RESELLER
+pubmatic.com, 162223, RESELLER, 5d62403b186f2ace
+rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
+rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
+yandex.com, 95746987, RESELLER

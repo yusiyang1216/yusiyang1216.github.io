@@ -138,3 +138,4 @@ spotx.tv, 149886, RESELLER, 7842df1d2fe2db34
 spotx.tv, 71426, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 149886, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 71426, RESELLER, 7842df1d2fe2db34
+video.unrulymedia.com, 170071695, RESELLER

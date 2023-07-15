@@ -166,3 +166,6 @@ xandr.com, 13799, RESELLER
 contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
 video.unrulymedia.com, 123476257, RESELLER
 pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+google.com, pub-3651132820732670, RESELLER, f08c47fec0942fa0
+inmobi.com, 7847fe1f9ac54b4abe609cde4011243b, RESELLER, 83e75a7ae333ca9d
+Xapads.com, 155860, RESELLER

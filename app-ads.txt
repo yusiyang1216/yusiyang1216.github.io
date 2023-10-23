@@ -183,3 +183,12 @@ pubnative.net, 1007262, RESELLER, d641df8625486a7b
 pubnative.net, 1007501, RESELLER, d641df8625486a7b
 pubnative.net, 1008770, RESELLER, d641df8625486a7b
 themediagrid.com, FH3TKJ, RESELLER, 35d5010d7789b49d
+152media.info, 152M324, RESELLER
+adsyield.com, 1233, DIRECT
+improvedigital.com, 1604, RESELLER
+improvedigital.com, 2052, RESELLER
+onetag.com, 7d9af0b85b5070e, DIRECT
+playwire.com, 1018531, RESELLER
+playwire.com, 1025000, RESELLER
+pubmatic.com, 162239, RESELLER, 5d62403b186f2ace
+smartclip.net, 13564, RESELLER
